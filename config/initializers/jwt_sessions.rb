@@ -1,1 +1,1 @@
-JWTSessions.encryption_key = 'rahasia'
+JWTSessions.encryption_key = 'rahasia2'
